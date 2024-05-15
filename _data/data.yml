@@ -2,7 +2,6 @@
 # Tenga en cuenta que al modificar este archivo, el mínimo error en la sintáxis puede generar errores
 #
 
-
 sidebar:
   about: False # NO MODIFICAR
   education: False # NO MODIFICAR
@@ -25,7 +24,7 @@ sidebar:
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
 
-  # Actualiza según los idiomas y nieles que tienes. Agrega o Elimina según sea necesario.
+  # Actualiza según los idiomas y niveles que tienes. Agrega o Elimina según sea necesario.
   languages:
     - idiom: English
       level: CEFR A2 . Elementary # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
@@ -47,7 +46,7 @@ sidebar:
     - item: Positive Attitude
       link: # dejar en blanco
 
-    - item: Time and Task Management Punctuality
+    - item: Time and Task Management
       link: # dejar en blanco
 
     - item: Punctuality
@@ -55,7 +54,6 @@ sidebar:
 
     - item: Learning Fast
       link: # dejar en blanco
-
 
 # Registra aquí un resumen de tu perfil
 career-profile:
@@ -131,57 +129,57 @@ skills:
       level-name: Proficient
       time: 7 months
 
-      - name: HTML
+    - name: HTML
       level: 90%
       level-name: Proficient
       time: 3 years
 
-      - name: CSS
+    - name: CSS
       level: 50%
       level-name: Advanced beginner
       time: 3 months
 
-      - name: Java
+    - name: Java
       level: 70%
       level-name: Competent
       time: 2 years
 
-      - name: TypeScript
+    - name: TypeScript
       level: 80%
       level-name: Proficient
       time: 7 months
 
-      - name: NodeJs
+    - name: NodeJs
       level: 60%
       level-name: Competent
       time: 7 months
 
-      - name: Git
+    - name: Git
       level: 80%
       level-name: Proficient
       time: 2 years
 
-      - name: PHP
+    - name: PHP
       level: 40%
       level-name: Advanced beginner
       time: 1 year
 
-      - name: SQL Databases
+    - name: SQL Databases
       level: 60%
       level-name: Competent
       time: 1.5 years
 
-      - name: Non-SQL Databases
+    - name: Non-SQL Databases
       level: 90%
       level-name: Proficient
       time: 2 years
 
-      - name: Jest
+    - name: Jest
       level: 20%
       level-name: Novice
       time: 1 month
 
-      - name: Python
+    - name: Python
       level: 40%
       level-name: Advanced beginner
       time: 4 months
