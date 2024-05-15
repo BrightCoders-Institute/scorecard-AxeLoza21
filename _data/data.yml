@@ -35,10 +35,10 @@ sidebar:
 
   # Registra aquí tus soft skills. Agrega o elimina según sea necesario
   interests:
-    - item: Growth Mindset
+    - item: Problem Solving
       link: # dejar en blanco
 
-    - item: Effective communication
+    - item: Assertive Communication
       link: # dejar en blanco
 
     - item: Good Team Player
@@ -47,8 +47,15 @@ sidebar:
     - item: Positive Attitude
       link: # dejar en blanco
 
-    - item: Time and Task Management
+    - item: Time and Task Management Punctuality
       link: # dejar en blanco
+
+    - item: Punctuality
+      link: # dejar en blanco
+
+    - item: Learning Fast
+      link: # dejar en blanco
+
 
 # Registra aquí un resumen de tu perfil
 career-profile:
@@ -60,20 +67,20 @@ career-profile:
 educationcomplete:
   - degree: Bachelor Degree
     university: Universidad de Colima
-    time: 2020 - 2024
+    time: 2019 - 2024
     details: |
       Facultad de Ingenieria Electromecanica - Software Engineer.
 
   - degree: HTML Certification
     university: Udemy
-    time: 2022
+    time: March 1, 2022
     details: |
-      300 hrs course certification.
+      6.5 hrs course certification.
 
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
   - role: React Native Developer
-    time: Feb 2022 - Present
+    time: Nov 2023 - Present
     company: Bright Coders, Mexico
     details: |
       Develop native applications with technologies such as Javascript and React Native, 
@@ -81,19 +88,23 @@ experiences:
       and remote repositories. In addition to developing fundamental skills in software development 
       such as teamwork and effective communication using an agile methodology.
 
-  - role: Project Name
-    time: Sep 2021 - Jan 2022
-    company: BrightCoders
+  - role: Android movil application for carpoling “uniride”
+    time: 2023 - 2024
+    company: Universidad de Colima
     details: |
-      My role was to design the views with Figma and use React Native for the development of o mobile app designed for... I worked remotely with other 3 team members.
+      A mobile application for booking local trips between students that allows students with and without vehicles 
+      to travel to the same educational institution, thus helping to reduce vehicular pollution and helping students without vehicles
+      to get to their educational institution faster.
 
-  - role: Full Stack Developer
-    time: Feb 2021 - Aug 2021
-    company: Company Name
+  - role: Android movil application “mzmotorsport”
+    time: Ago 2022 - Dic 2022
+    company: Universidad de Colima
     details: |
-      My role was to create the layout for the website in a responsive way, 
-      create the database logic with SQL, develop the frontend part with jQuery
-      and the backend with PHP and its Codeigniter framework.
+      Mobile application for the purchase and sale of automobiles in Manzanillo. Its function is to match the seller with the buyer. Developed in 
+      Android Studio
+      - Java
+      - MySQL
+      - PHP
 
 # Registra aquí tus habilidades técnicas, para level utiliza:
 # 20% para Novice
@@ -106,12 +117,12 @@ skills:
 
   toolset:
     - name: Javascript
-      level: 75%
+      level: 80%
       level-name: Proficient
       time: 1 year
 
     - name: React
-      level: 35%
+      level: 40%
       level-name: Advanced beginner
       time: 3 months
 
@@ -119,6 +130,61 @@ skills:
       level: 80%
       level-name: Proficient
       time: 7 months
+
+      - name: HTML
+      level: 90%
+      level-name: Proficient
+      time: 3 years
+
+      - name: CSS
+      level: 50%
+      level-name: Advanced beginner
+      time: 3 months
+
+      - name: Java
+      level: 70%
+      level-name: Competent
+      time: 2 years
+
+      - name: TypeScript
+      level: 80%
+      level-name: Proficient
+      time: 7 months
+
+      - name: NodeJs
+      level: 60%
+      level-name: Competent
+      time: 7 months
+
+      - name: Git
+      level: 80%
+      level-name: Proficient
+      time: 2 years
+
+      - name: PHP
+      level: 40%
+      level-name: Advanced beginner
+      time: 1 year
+
+      - name: SQL Databases
+      level: 60%
+      level-name: Competent
+      time: 1.5 years
+
+      - name: Non-SQL Databases
+      level: 90%
+      level-name: Proficient
+      time: 2 years
+
+      - name: Jest
+      level: 20%
+      level-name: Novice
+      time: 1 month
+
+      - name: Python
+      level: 40%
+      level-name: Advanced beginner
+      time: 4 months
 
 # NO MODIFICAR
 footer: >
