@@ -115,18 +115,18 @@ skills:
 
   toolset:
     - name: Javascript
-      level: 80%
-      level-name: Proficient
+      level: 60%
+      level-name: Competent
       time: 1 year
 
     - name: React
-      level: 40%
-      level-name: Advanced beginner
+      level: 30%
+      level-name: Novice
       time: 3 months
 
     - name: React Native
-      level: 80%
-      level-name: Proficient
+      level: 40%
+      level-name: Advanced beginner
       time: 7 months
 
     - name: HTML
@@ -140,16 +140,11 @@ skills:
       time: 3 months
 
     - name: Java
-      level: 70%
+      level: 60%
       level-name: Competent
       time: 2 years
 
     - name: TypeScript
-      level: 80%
-      level-name: Proficient
-      time: 7 months
-
-    - name: NodeJs
       level: 60%
       level-name: Competent
       time: 7 months
@@ -159,30 +154,21 @@ skills:
       level-name: Proficient
       time: 2 years
 
-    - name: PHP
-      level: 40%
-      level-name: Advanced beginner
-      time: 1 year
-
     - name: SQL Databases
       level: 60%
       level-name: Competent
       time: 1.5 years
 
     - name: Non-SQL Databases
-      level: 90%
+      level: 80%
       level-name: Proficient
       time: 2 years
 
     - name: Jest
-      level: 20%
+      level: 5%
       level-name: Novice
       time: 1 month
 
-    - name: Python
-      level: 40%
-      level-name: Advanced beginner
-      time: 4 months
 
 # NO MODIFICAR
 footer: >
